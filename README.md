@@ -15,7 +15,7 @@ My name is Lovisa Carling and I'm a Front end developer consultant at Axakon. I 
 - Styled Components
 - Material UI
 
-I live in Solna, Stockholm together with my boyfriend and my two cats, Clint and Whoopi (yes they are named after the actress/actor). When not working as a consultant or developing personal project I prefer to game with friends, working out or watching new series.
+I live in Solna, Stockholm together with my boyfriend and my two cats, Clint and Whoopi (yes they are named after the actress/actor). When not working as a consultant or developing personal projects I prefer to game with friends, working out or watching new series.
 
 ⚡ Currently ⚡
 - Playing: League of Legends (never stopped to be honest 😄)
